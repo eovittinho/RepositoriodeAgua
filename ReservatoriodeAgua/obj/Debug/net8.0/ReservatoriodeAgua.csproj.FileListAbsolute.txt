@@ -1,0 +1,15 @@
+c:\Users\ALUNOS\OneDrive\Documentos\eovittinho\RepositoriodeAgua\ReservatoriodeAgua\bin\Debug\net8.0\ReservatoriodeAgua.exe
+C:\Users\ALUNOS\OneDrive\Documentos\eovittinho\RepositoriodeAgua\ReservatoriodeAgua\bin\Debug\net8.0\ReservatoriodeAgua.deps.json
+C:\Users\ALUNOS\OneDrive\Documentos\eovittinho\RepositoriodeAgua\ReservatoriodeAgua\bin\Debug\net8.0\ReservatoriodeAgua.runtimeconfig.json
+c:\Users\ALUNOS\OneDrive\Documentos\eovittinho\RepositoriodeAgua\ReservatoriodeAgua\bin\Debug\net8.0\ReservatoriodeAgua.dll
+c:\Users\ALUNOS\OneDrive\Documentos\eovittinho\RepositoriodeAgua\ReservatoriodeAgua\bin\Debug\net8.0\ReservatoriodeAgua.pdb
+c:\Users\ALUNOS\OneDrive\Documentos\eovittinho\RepositoriodeAgua\ReservatoriodeAgua\obj\Debug\net8.0\ReservatoriodeAgua.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ALUNOS\OneDrive\Documentos\eovittinho\RepositoriodeAgua\ReservatoriodeAgua\obj\Debug\net8.0\ReservatoriodeAgua.AssemblyInfoInputs.cache
+c:\Users\ALUNOS\OneDrive\Documentos\eovittinho\RepositoriodeAgua\ReservatoriodeAgua\obj\Debug\net8.0\ReservatoriodeAgua.AssemblyInfo.cs
+c:\Users\ALUNOS\OneDrive\Documentos\eovittinho\RepositoriodeAgua\ReservatoriodeAgua\obj\Debug\net8.0\ReservatoriodeAgua.csproj.CoreCompileInputs.cache
+c:\Users\ALUNOS\OneDrive\Documentos\eovittinho\RepositoriodeAgua\ReservatoriodeAgua\obj\Debug\net8.0\ReservatoriodeAgua.sourcelink.json
+c:\Users\ALUNOS\OneDrive\Documentos\eovittinho\RepositoriodeAgua\ReservatoriodeAgua\obj\Debug\net8.0\ReservatoriodeAgua.dll
+c:\Users\ALUNOS\OneDrive\Documentos\eovittinho\RepositoriodeAgua\ReservatoriodeAgua\obj\Debug\net8.0\refint\ReservatoriodeAgua.dll
+c:\Users\ALUNOS\OneDrive\Documentos\eovittinho\RepositoriodeAgua\ReservatoriodeAgua\obj\Debug\net8.0\ReservatoriodeAgua.pdb
+C:\Users\ALUNOS\OneDrive\Documentos\eovittinho\RepositoriodeAgua\ReservatoriodeAgua\obj\Debug\net8.0\ReservatoriodeAgua.genruntimeconfig.cache
+C:\Users\ALUNOS\OneDrive\Documentos\eovittinho\RepositoriodeAgua\ReservatoriodeAgua\obj\Debug\net8.0\ref\ReservatoriodeAgua.dll
